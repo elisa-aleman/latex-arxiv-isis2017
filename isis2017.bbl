@@ -1,0 +1,96 @@
+\begin{thebibliography}{10}
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{\texttt{#1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
+\expandafter\ifx\csname href\endcsname\relax
+  \def\href#1#2{#2} \def\path#1{#1}\fi
+
+\bibitem{jnto2017}
+{\relax Japan National Tourism Organization},
+  \href{http://www.jnto.go.jp/jpn/statistics/visitor_trends/}{April 2017
+  foreigner visits statistical data [data file in excel format divided by
+  nationality, month and year]}, Tech. rep., Japan National Tourism
+  Organization, (in Japanese) (2017).
+\newline\urlprefix\url{http://www.jnto.go.jp/jpn/statistics/visitor_trends/}
+
+\bibitem{chang2010}
+R.~Chang, J.~Kivela, A.~Mak, Food preferences of {Chinese} tourists, Annals Of
+  Tourism Research 37~(4) (2010) 989--1011.
+\newblock \href {http://dx.doi.org/10.1016/j.annals.2010.03.007}
+  {\path{doi:10.1016/j.annals.2010.03.007}}.
+
+\bibitem{truong2009}
+T.~Truong, B.~King, An evaluation of satisfaction levels among {Chinese}
+  tourists in {Vietnam}, International Journal Of Tourism Research 11~(6)
+  (2009) 521--535.
+\newblock \href {http://dx.doi.org/10.1002/jtr.726}
+  {\path{doi:10.1002/jtr.726}}.
+
+\bibitem{ma2008}
+Y.-f. Ma, P.~Zheng, K.~Bai, Study on the discrepancies of decision-making
+  behavior of tourists to {China}——take tourists from {Japan} and {America}
+  as a case study [j], Journal of Arid Land Resources and Environment 1.
+
+\bibitem{bollen2011}
+J.~Bollen, H.~Mao, X.~Zeng, Twitter mood predicts the stock market, Journal Of
+  Computational Science 2~(1) (2011) 1--8.
+\newblock \href {http://dx.doi.org/10.1016/j.jocs.2010.12.007}
+  {\path{doi:10.1016/j.jocs.2010.12.007}}.
+
+\bibitem{oconnor2010}
+B.~O'Connor, R.~Balasubramanyan, B.~Routledge, N.~Smith, From tweets to polls:
+  Linking text sentiment to public opinion time series, in: Proceedings Of The
+  Fourth International AAAI Conference On Weblogs And Social Media, 11(1-2),
+  2010, p. 122–129.
+
+\bibitem{he2013}
+W.~He, S.~Zha, L.~Li, Social media competitive analysis and text mining: A case
+  study in the pizza industry, International Journal Of Information Management
+  22~(3) (2013) 464--472.
+\newblock \href {http://dx.doi.org/10.1016/j.ijinfomgt.2013.01.001}
+  {\path{doi:10.1016/j.ijinfomgt.2013.01.001}}.
+
+\bibitem{lee2010-a}
+S.~Lee, A linguistic approach to emotion detection and classification (ph. d.),
+  Ph.D. thesis, The Hong Kong Polytechnic University (2010).
+
+\bibitem{zhang2011}
+H.~Zhang, Z.~Yu, M.~Xu, Y.~Shi, Feature-level sentiment analysis for {Chinese}
+  product reviews., In Proceedings of the 2011 3Rd International Conference On
+  Computer Research And Development 2 (2011) 135--140.
+\newblock \href {http://dx.doi.org/10.1109/iccrd.2011.5764099}
+  {\path{doi:10.1109/iccrd.2011.5764099}}.
+
+\bibitem{chang2008}
+P.~Chang, M.~Galley, C.~Manning,
+  \href{http://nlp.stanford.edu/pubs/acl-wmt08-cws.pdf}{Optimizing {Chinese}
+  word segmentation for machine translation performance}, in: Statmt '08
+  Proceedings Of The Third Workshop On Statistical Machine, Columbus,Ohio,USA,
+  2008, pp. 224--232.
+\newline\urlprefix\url{http://nlp.stanford.edu/pubs/acl-wmt08-cws.pdf}
+
+\bibitem{shannon1948}
+C.~Shannon, A mathematical theory of communication, Bell System Technical
+  Journal 27~(3) (1948) 279--423.
+\newblock \href {http://dx.doi.org/10.1002/j.1538-7305.1948.tb01338.x}
+  {\path{doi:10.1002/j.1538-7305.1948.tb01338.x}}.
+
+\bibitem{cortes1995}
+C.~Cortes, V.~Vapnik, Support-vector networks, Machine Learning 20~(3) (1995)
+  273--297.
+\newblock \href {http://dx.doi.org/10.1007/bf00994018}
+  {\path{doi:10.1007/bf00994018}}.
+
+\bibitem{kohavi1995}
+R.~Kohavi, A study of cross-validation and bootstrap for accuracy estimation
+  and model selection, International Joint Conference On Artificial
+  Intelligence 14 (1995) 2.
+
+\bibitem{powers2011}
+D.~Powers,
+  \href{http://www.flinders.edu.au/science_engineering/fms/School-CSEM/publications/tech_reps-research_artfcts/TRRA_2007.pdf}{Evaluation:
+  From precision, recall and f-measure to roc, informedness, markedness \&
+  correlation}, Journal Of Machine Learning Technologies 2~(1) (2011) 37--63.
+\newline\urlprefix\url{http://www.flinders.edu.au/science_engineering/fms/School-CSEM/publications/tech_reps-research_artfcts/TRRA_2007.pdf}
+
+\end{thebibliography}
